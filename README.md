@@ -8,7 +8,6 @@
 <div align="center">
  
  <img src="https://badges.pufler.dev/visits/utaking1508/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/utaking1508"/>
  <img src="https://badges.pufler.dev/commits/monthly/utaking1508" />
 
