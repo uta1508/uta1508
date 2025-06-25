@@ -19,7 +19,7 @@
 <p>
  <img align="right" width="210" src="https://avatars.githubusercontent.com/u/177003326?v=4" style="border-radius: 50%;"/>
   
- 👦 &emsp; I am a 14 y/o student programmer.<br/><br/>
+ 👦 &emsp; I am a 15 y/o student programmer.<br/><br/>
  🖥 &emsp; Mainly web development and programming in Python<br/><br/>
  📧 &emsp; Reach me anytime: [@utaking1508](https://discord.com/users/1249970061666553878)<br/><br/>
  🎮 &emsp; I'm an administrator on the Minecraft server. [Discord](https://discord.gg/YuDfdmHan4)
